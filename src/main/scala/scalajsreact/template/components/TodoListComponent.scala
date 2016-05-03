@@ -5,9 +5,6 @@ import japgolly.scalajs.react.vdom.prefix_<^._
 
 import scalajsreact.template.models.TodoItem
 
-/**
-  * Created by jarlandre on 01/05/16.
-  */
 object TodoListComponent {
   case class Props(items: Seq[TodoItem], toggle: TodoItem => ReactEventI => Callback, delete: TodoItem => ReactEventI => Callback)
 
