@@ -1,5 +1,4 @@
 scalajs-react-template
 ======================
 
-Basic skeleton app for scalajs-react and scalacss
-# scalajs-react-todoapp
+Basic todo app for scalajs-react
